@@ -1,0 +1,4 @@
+/home/matlle/Projects/c++/modeling_simulation/elementary_cellular_automata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matlle/Projects/c++/modeling_simulation/elementary_cellular_automata/cmake-build-debug/CMakeFiles/elementary_cellular_automata.dir
+/home/matlle/Projects/c++/modeling_simulation/elementary_cellular_automata/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matlle/Projects/c++/modeling_simulation/elementary_cellular_automata/cmake-build-debug/CMakeFiles/elementary_cellular_automata_autogen.dir
